@@ -1,0 +1,17 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khanhhv",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.6.16",
+    "feed-read": "0.0.1",
+    "futures": "^2.3.3",
+    "witbot": "^2.1.0"
+  }
+}
