@@ -1,0 +1,24 @@
+{
+  "name": "kid-haystakt",
+  "version": "0.1.2",
+  "description": "Support app that helps with Haystakt miscellany. The main thing is slack-todo, a todo mini-app for Slack.",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sneakertack/slack-todo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "haystakt",
+    "slack"
+  ],
+  "author": "Melvin Tiong",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "mongodb": "^2.2.19",
+    "q": "^1.0.1"
+  }
+}
